@@ -11,7 +11,7 @@ The project is built with React
 Udacity provided with the basic code and design
 My part was to create the right react components and to route them correctly in order to make the page fully working.
 
-You can see the page live here : https://melsdesign.github.io/My-Reads-Book-React-App/
+You can see the page live here : https://melsdesign.github.io/My-Reads-React-Udacity/
  
 ## Details:
 ->On the main page user can access from the drop down arrow three categories, 
